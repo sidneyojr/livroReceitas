@@ -1,13 +1,13 @@
-#TORTA DE MAÇÃ (APPLE PIE)
+# TORTA DE MAÇÃ (APPLE PIE)
 
-###MASSA:
+### MASSA:
 - 3 xícaras (chá) de farinha de trigo
 
 - 150 g de margarina
 
 - 9 colheres de água gelada
 
-###RECHEIO:
+### RECHEIO:
 - 8 maçãs sem casca cortadas em cubinhos
 
 - 2 colheres (sopa) de limão
@@ -22,7 +22,7 @@
 
 - 1 colher de manteiga 
 
-###MODO DE PREPARO: 
+### MODO DE PREPARO: 
 **1.** Misture a farinha com a manteiga formando uma farofa e acrescente a água gelada.
 
 **2.** Amasse bem, envolva em papel filme e deixe na geladeira por 30 minutos.
