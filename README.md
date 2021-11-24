@@ -2,7 +2,7 @@
 
 ### Bem vindo às receitas:
 
-- Torta de maçã
+- Torta de Maçã
 - Bolo de Cenoura
 - Pavê de Nozes
 
